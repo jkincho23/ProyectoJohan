@@ -1,8 +1,11 @@
 # ninja log v5
-3	399	6904411527024222	CMakeFiles/Proyecto2.dir/main.cpp.obj	8bef6435d2c1361d
+2	391	6904413835885974	CMakeFiles/Proyecto2.dir/main.cpp.obj	8bef6435d2c1361d
 3	502	6904409647424576	CMakeFiles/Proyecto2.dir/Paciente.cpp.obj	60d3b8cf275f99d1
 3	523	6904411879197046	CMakeFiles/Proyecto2.dir/Profesor.cpp.obj	ab85c3aa80c2129d
-523	597	6904411879909242	Proyecto2.exe	3890fc0e31045298
-5	49	6904413832467005	CMakeFiles/Proyecto2.dir/Estudiante.cpp.obj	2f20dbf1630e065
-2	391	6904413835885974	CMakeFiles/Proyecto2.dir/main.cpp.obj	8bef6435d2c1361d
 391	474	6904413836699081	Proyecto2.exe	4553e1f3e29587a0
+5	49	6904413832467005	CMakeFiles/Proyecto2.dir/Estudiante.cpp.obj	2f20dbf1630e065
+9	49	6904515658035130	CMakeFiles/Proyecto2.dir/Estudiante.cpp.obj	4adf182abbc396b2
+6	976	6904515667304555	CMakeFiles/Proyecto2.dir/Paciente.cpp.obj	645d6cd998b6b968
+3	1079	6904515668056330	CMakeFiles/Proyecto2.dir/main.cpp.obj	521113f32e0d7502
+12	1085	6904515668269329	CMakeFiles/Proyecto2.dir/Profesor.cpp.obj	7c30c7b08bb6acfb
+1086	1296	6904515670472219	Proyecto2.exe	4553e1f3e29587a0
