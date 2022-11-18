@@ -3,4 +3,4 @@ project(Proyecto2)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Proyecto2 main.cpp Paciente.h Paciente.cpp Profesor.h Profesor.cpp Estudiante.h Estudiante.cpp)
+add_executable(Proyecto2 main.cpp Paciente.h Paciente.cpp Profesor.h Profesor.cpp Estudiante.h Estudiante.cpp Medico.h Medico.cpp Transporte.h Transporte.cpp)

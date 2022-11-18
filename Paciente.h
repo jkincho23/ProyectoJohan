@@ -1,5 +1,5 @@
 //
-// Created by jjgr2 on 17/11/2022.
+// Created by Johan on 17/11/2022.
 //
 
 #ifndef PRUEBAS_PACIENTE_H
@@ -11,7 +11,7 @@
 using namespace std;
 
 class Paciente {
-private:
+protected:
     string nombre;
     string nomU;
     string id;

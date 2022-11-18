@@ -40,11 +40,14 @@ void Profesor::setDato(int dato) {
 
 string Profesor::toString() {
     stringstream ss;
-    ss << "Nombre : " << getNombre() << endl;
-    ss << "Nombre U : " << getNomU() << endl;
-    ss << "ID : " << getId() << endl;
+    ss << "Nombre : " << nombre << endl;
+    ss << "Nombre U : " << nomU << endl;
+    ss << "ID : " << id << endl;
+    ss << "Titulo : " << titulo << endl;
+    ss << "Años Laborados: " << anniosLab << endl;
     propiedad ? ss << "Codigo : " : ss << "Calificacion : ";
     ss << dato << endl;
+
 
     return ss.str();
 }

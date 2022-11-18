@@ -1,3 +1,3 @@
-C:/Users/jjgr2/OneDrive/Escritorio/Proyecto2/ProyectoJohan/cmake-build-debug/CMakeFiles/Proyecto2.dir
-C:/Users/jjgr2/OneDrive/Escritorio/Proyecto2/ProyectoJohan/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/jjgr2/OneDrive/Escritorio/Proyecto2/ProyectoJohan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Johan/OneDrive/Documentos/GitHub/ProyectoJohan/cmake-build-debug/CMakeFiles/Proyecto2.dir
+C:/Users/Johan/OneDrive/Documentos/GitHub/ProyectoJohan/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Johan/OneDrive/Documentos/GitHub/ProyectoJohan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
