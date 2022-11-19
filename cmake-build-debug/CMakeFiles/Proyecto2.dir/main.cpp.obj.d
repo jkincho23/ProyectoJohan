@@ -149,6 +149,24 @@ CMakeFiles/Proyecto2.dir/main.cpp.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/istream.tcc \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/sstream \
  C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/sstream.tcc \
- C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\Profesor.h \
+ C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\Menu.h \
+ C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\Saluduni.h \
+ C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\Hora.h \
+ C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\Fecha.h \
+ C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\Medico.h \
+ C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\Transporte.h \
+ C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\Cita.h \
  C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\Paciente.h \
- C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\Estudiante.h
+ C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\ListaPacienteEstudiante.h \
+ C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\NodoPacienteEstudiante.h \
+ C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\Estudiante.h \
+ C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\ListaMedico.h \
+ C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\NodoMedico.h \
+ C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\ListaTransporte.h \
+ C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\NodoTransporte.h \
+ C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\ListaCita.h \
+ C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\NodoCita.h \
+ C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\ListaPacienteProfesor.h \
+ C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\NodoPacienteProfesor.h \
+ C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\Profesor.h \
+ C:\Users\Johan\OneDrive\Documentos\GitHub\ProyectoJohan\Facilitadores.h

@@ -127,19 +127,54 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Cita.cpp" />
     <ClCompile Include="Estudiante.cpp" />
+    <ClCompile Include="Facilitadores.cpp" />
+    <ClCompile Include="Fecha.cpp" />
+    <ClCompile Include="Hora.cpp" />
+    <ClCompile Include="ListaCita.cpp" />
+    <ClCompile Include="ListaMedico.cpp" />
+    <ClCompile Include="ListaPacienteEstudiante.cpp" />
+    <ClCompile Include="ListaPacienteProfesor.cpp" />
+    <ClCompile Include="ListaTransporte.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="Medico.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="NodoCita.cpp" />
+    <ClCompile Include="NodoMedico.cpp" />
+    <ClCompile Include="NodoPacienteEstudiante.cpp" />
+    <ClCompile Include="NodoPacienteProfesor.cpp" />
+    <ClCompile Include="NodoTransporte.cpp" />
     <ClCompile Include="Paciente.cpp" />
     <ClCompile Include="Profesor.cpp" />
-    <ClCompile Include="Proyecto2.cpp" />
+    <ClCompile Include="Saluduni.cpp" />
     <ClCompile Include="Transporte.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Cita.h" />
     <ClInclude Include="Estudiante.h" />
+    <ClInclude Include="Facilitadores.h" />
+    <ClInclude Include="Fecha.h" />
+    <ClInclude Include="Hora.h" />
+    <ClInclude Include="ListaCita.h" />
+    <ClInclude Include="ListaMedico.h" />
+    <ClInclude Include="ListaPacienteEstudiante.h" />
+    <ClInclude Include="ListaPacienteProfesor.h" />
+    <ClInclude Include="ListaTransporte.h" />
     <ClInclude Include="Medico.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="NodoCita.h" />
+    <ClInclude Include="NodoMedico.h" />
+    <ClInclude Include="NodoPacienteEstudiante.h" />
+    <ClInclude Include="NodoPacienteProfesor.h" />
+    <ClInclude Include="NodoTransporte.h" />
     <ClInclude Include="Paciente.h" />
     <ClInclude Include="Profesor.h" />
+    <ClInclude Include="Saluduni.h" />
     <ClInclude Include="Transporte.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="CMakeLists.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

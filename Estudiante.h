@@ -18,23 +18,13 @@ public:
 
     const string &getCodCarrera() const;
 
-    void setCodCarrera(const string &codCarrera);
-
     const string &getTelefono() const;
-
-    void setTelefono(const string &telefono);
 
     const string &getNacionalidad() const;
 
-    void setNacionalidad(const string &nacionalidad);
-
     const string &getCondicion() const;
 
-    void setCondicion(const string &condicion);
-
     int getNivelCursado() const;
-
-    void setNivelCursado(int nivelCursado);
 
     bool isNacional() const;
 
@@ -42,7 +32,17 @@ public:
 
     bool isEstado() const;
 
-    void setEstado(bool estado);
+    virtual void setTelefono(string &telefono);
+
+    virtual void setCodCarrera(string &codigoCarrera);
+
+    virtual void setNacionalidad(string &nacionalidad);
+
+    virtual void setCondicion(string &condicion);
+
+    virtual void setNivelCursado(int nivel);
+
+    virtual void setEstado(bool &estado);
 
     string toString();
 };

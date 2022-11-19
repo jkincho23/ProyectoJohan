@@ -31,7 +31,8 @@ public:
 
     const string &getId() const;
 
-    void setId(const string &id);
+    void setId(const string &nomU);
+
 };
 
 

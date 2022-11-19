@@ -6,6 +6,22 @@ Profesor::Profesor(const string &nombre, const string &nomU, const string &id, b
                    int anniosLab, int dato) : Paciente(nombre, nomU, id), propiedad(propiedad), titulo(titulo),
                                               anniosLab(anniosLab), dato(dato) {}
 
+
+
+string Profesor::toString() {
+    stringstream ss;
+    ss << "Nombre : " << nombre << endl;
+    ss << "Nombre U : " << nomU << endl;
+    ss << "ID : " << id << endl;
+    ss << "Titulo : " << titulo << endl;
+    ss << "Años Laborados: " << anniosLab << endl;
+    propiedad ? ss << "Codigo : " : ss << "Calificacion : ";
+    ss << dato << endl;
+
+
+    return ss.str();
+}
+
 bool Profesor::isPropiedad() const {
     return propiedad;
 }
@@ -38,16 +54,3 @@ void Profesor::setDato(int dato) {
     Profesor::dato = dato;
 }
 
-string Profesor::toString() {
-    stringstream ss;
-    ss << "Nombre : " << nombre << endl;
-    ss << "Nombre U : " << nomU << endl;
-    ss << "ID : " << id << endl;
-    ss << "Titulo : " << titulo << endl;
-    ss << "Años Laborados: " << anniosLab << endl;
-    propiedad ? ss << "Codigo : " : ss << "Calificacion : ";
-    ss << dato << endl;
-
-
-    return ss.str();
-}

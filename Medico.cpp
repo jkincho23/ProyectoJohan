@@ -43,4 +43,14 @@ const string &Medico::getEspecialidad() const {
 void Medico::setEspecialidad(const string &especialidad) {
     Medico::especialidad = especialidad;
 }
+string Medico::toString()
+{
+    stringstream s;
+    s << "Nombre : " << nombre << "\n"
+      << "Apellido: " << apellido << "\n"
+      << "Cedula: " << id << "\n"
+      << "Numero Telefonico: " << telefono << "\n"
+      << "Especialidad : "<< especialidad << "\n";
+    return s.str();
+}
 

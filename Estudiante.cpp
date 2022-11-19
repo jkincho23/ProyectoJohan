@@ -16,7 +16,7 @@ const string &Estudiante::getCodCarrera() const {
     return codCarrera;
 }
 
-void Estudiante::setCodCarrera(const string &codCarrera) {
+void Estudiante::setCodCarrera(string &codCarrera) {
     Estudiante::codCarrera = codCarrera;
 }
 
@@ -24,7 +24,7 @@ const string &Estudiante::getTelefono() const {
     return telefono;
 }
 
-void Estudiante::setTelefono(const string &telefono) {
+void Estudiante::setTelefono(string &telefono) {
     Estudiante::telefono = telefono;
 }
 
@@ -32,7 +32,7 @@ const string &Estudiante::getNacionalidad() const {
     return nacionalidad;
 }
 
-void Estudiante::setNacionalidad(const string &nacionalidad) {
+void Estudiante::setNacionalidad(string &nacionalidad) {
     Estudiante::nacionalidad = nacionalidad;
 }
 
@@ -40,7 +40,7 @@ const string &Estudiante::getCondicion() const {
     return condicion;
 }
 
-void Estudiante::setCondicion(const string &condicion) {
+void Estudiante::setCondicion(string &condicion) {
     Estudiante::condicion = condicion;
 }
 
@@ -64,7 +64,7 @@ bool Estudiante::isEstado() const {
     return estado;
 }
 
-void Estudiante::setEstado(bool estado) {
+void Estudiante::setEstado(bool &estado) {
     Estudiante::estado = estado;
 }
 
@@ -86,5 +86,6 @@ string Estudiante::toString() {
     s << "Ultimo nivel cursado: " << nivelCursado << endl;
     return s.str();
 }
+
 
 

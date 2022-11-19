@@ -83,7 +83,7 @@ string Transporte::toString(){
     stringstream s;
     s << "Placa: " << placa << endl;
     s << "Marca: " << marca << endl;
-    if(ambulancia == true){
+    if(ambulancia){
         s << "Codigo: " << codigo << endl;
         s << "Ocupado: " << ocupado << endl;
     }

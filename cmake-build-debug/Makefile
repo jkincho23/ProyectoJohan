@@ -128,6 +128,30 @@ Proyecto2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/build
 .PHONY : Proyecto2/fast
 
+Cita.obj: Cita.cpp.obj
+.PHONY : Cita.obj
+
+# target to build an object file
+Cita.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Cita.cpp.obj
+.PHONY : Cita.cpp.obj
+
+Cita.i: Cita.cpp.i
+.PHONY : Cita.i
+
+# target to preprocess a source file
+Cita.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Cita.cpp.i
+.PHONY : Cita.cpp.i
+
+Cita.s: Cita.cpp.s
+.PHONY : Cita.s
+
+# target to generate assembly for a file
+Cita.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Cita.cpp.s
+.PHONY : Cita.cpp.s
+
 Estudiante.obj: Estudiante.cpp.obj
 .PHONY : Estudiante.obj
 
@@ -152,6 +176,198 @@ Estudiante.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Estudiante.cpp.s
 .PHONY : Estudiante.cpp.s
 
+Facilitadores.obj: Facilitadores.cpp.obj
+.PHONY : Facilitadores.obj
+
+# target to build an object file
+Facilitadores.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Facilitadores.cpp.obj
+.PHONY : Facilitadores.cpp.obj
+
+Facilitadores.i: Facilitadores.cpp.i
+.PHONY : Facilitadores.i
+
+# target to preprocess a source file
+Facilitadores.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Facilitadores.cpp.i
+.PHONY : Facilitadores.cpp.i
+
+Facilitadores.s: Facilitadores.cpp.s
+.PHONY : Facilitadores.s
+
+# target to generate assembly for a file
+Facilitadores.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Facilitadores.cpp.s
+.PHONY : Facilitadores.cpp.s
+
+Fecha.obj: Fecha.cpp.obj
+.PHONY : Fecha.obj
+
+# target to build an object file
+Fecha.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Fecha.cpp.obj
+.PHONY : Fecha.cpp.obj
+
+Fecha.i: Fecha.cpp.i
+.PHONY : Fecha.i
+
+# target to preprocess a source file
+Fecha.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Fecha.cpp.i
+.PHONY : Fecha.cpp.i
+
+Fecha.s: Fecha.cpp.s
+.PHONY : Fecha.s
+
+# target to generate assembly for a file
+Fecha.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Fecha.cpp.s
+.PHONY : Fecha.cpp.s
+
+Hora.obj: Hora.cpp.obj
+.PHONY : Hora.obj
+
+# target to build an object file
+Hora.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Hora.cpp.obj
+.PHONY : Hora.cpp.obj
+
+Hora.i: Hora.cpp.i
+.PHONY : Hora.i
+
+# target to preprocess a source file
+Hora.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Hora.cpp.i
+.PHONY : Hora.cpp.i
+
+Hora.s: Hora.cpp.s
+.PHONY : Hora.s
+
+# target to generate assembly for a file
+Hora.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Hora.cpp.s
+.PHONY : Hora.cpp.s
+
+ListaCita.obj: ListaCita.cpp.obj
+.PHONY : ListaCita.obj
+
+# target to build an object file
+ListaCita.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/ListaCita.cpp.obj
+.PHONY : ListaCita.cpp.obj
+
+ListaCita.i: ListaCita.cpp.i
+.PHONY : ListaCita.i
+
+# target to preprocess a source file
+ListaCita.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/ListaCita.cpp.i
+.PHONY : ListaCita.cpp.i
+
+ListaCita.s: ListaCita.cpp.s
+.PHONY : ListaCita.s
+
+# target to generate assembly for a file
+ListaCita.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/ListaCita.cpp.s
+.PHONY : ListaCita.cpp.s
+
+ListaMedico.obj: ListaMedico.cpp.obj
+.PHONY : ListaMedico.obj
+
+# target to build an object file
+ListaMedico.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/ListaMedico.cpp.obj
+.PHONY : ListaMedico.cpp.obj
+
+ListaMedico.i: ListaMedico.cpp.i
+.PHONY : ListaMedico.i
+
+# target to preprocess a source file
+ListaMedico.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/ListaMedico.cpp.i
+.PHONY : ListaMedico.cpp.i
+
+ListaMedico.s: ListaMedico.cpp.s
+.PHONY : ListaMedico.s
+
+# target to generate assembly for a file
+ListaMedico.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/ListaMedico.cpp.s
+.PHONY : ListaMedico.cpp.s
+
+ListaPacienteEstudiante.obj: ListaPacienteEstudiante.cpp.obj
+.PHONY : ListaPacienteEstudiante.obj
+
+# target to build an object file
+ListaPacienteEstudiante.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/ListaPacienteEstudiante.cpp.obj
+.PHONY : ListaPacienteEstudiante.cpp.obj
+
+ListaPacienteEstudiante.i: ListaPacienteEstudiante.cpp.i
+.PHONY : ListaPacienteEstudiante.i
+
+# target to preprocess a source file
+ListaPacienteEstudiante.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/ListaPacienteEstudiante.cpp.i
+.PHONY : ListaPacienteEstudiante.cpp.i
+
+ListaPacienteEstudiante.s: ListaPacienteEstudiante.cpp.s
+.PHONY : ListaPacienteEstudiante.s
+
+# target to generate assembly for a file
+ListaPacienteEstudiante.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/ListaPacienteEstudiante.cpp.s
+.PHONY : ListaPacienteEstudiante.cpp.s
+
+ListaPacienteProfesor.obj: ListaPacienteProfesor.cpp.obj
+.PHONY : ListaPacienteProfesor.obj
+
+# target to build an object file
+ListaPacienteProfesor.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/ListaPacienteProfesor.cpp.obj
+.PHONY : ListaPacienteProfesor.cpp.obj
+
+ListaPacienteProfesor.i: ListaPacienteProfesor.cpp.i
+.PHONY : ListaPacienteProfesor.i
+
+# target to preprocess a source file
+ListaPacienteProfesor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/ListaPacienteProfesor.cpp.i
+.PHONY : ListaPacienteProfesor.cpp.i
+
+ListaPacienteProfesor.s: ListaPacienteProfesor.cpp.s
+.PHONY : ListaPacienteProfesor.s
+
+# target to generate assembly for a file
+ListaPacienteProfesor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/ListaPacienteProfesor.cpp.s
+.PHONY : ListaPacienteProfesor.cpp.s
+
+ListaTransporte.obj: ListaTransporte.cpp.obj
+.PHONY : ListaTransporte.obj
+
+# target to build an object file
+ListaTransporte.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/ListaTransporte.cpp.obj
+.PHONY : ListaTransporte.cpp.obj
+
+ListaTransporte.i: ListaTransporte.cpp.i
+.PHONY : ListaTransporte.i
+
+# target to preprocess a source file
+ListaTransporte.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/ListaTransporte.cpp.i
+.PHONY : ListaTransporte.cpp.i
+
+ListaTransporte.s: ListaTransporte.cpp.s
+.PHONY : ListaTransporte.s
+
+# target to generate assembly for a file
+ListaTransporte.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/ListaTransporte.cpp.s
+.PHONY : ListaTransporte.cpp.s
+
 Medico.obj: Medico.cpp.obj
 .PHONY : Medico.obj
 
@@ -175,6 +391,150 @@ Medico.s: Medico.cpp.s
 Medico.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Medico.cpp.s
 .PHONY : Medico.cpp.s
+
+Menu.obj: Menu.cpp.obj
+.PHONY : Menu.obj
+
+# target to build an object file
+Menu.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Menu.cpp.obj
+.PHONY : Menu.cpp.obj
+
+Menu.i: Menu.cpp.i
+.PHONY : Menu.i
+
+# target to preprocess a source file
+Menu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Menu.cpp.i
+.PHONY : Menu.cpp.i
+
+Menu.s: Menu.cpp.s
+.PHONY : Menu.s
+
+# target to generate assembly for a file
+Menu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Menu.cpp.s
+.PHONY : Menu.cpp.s
+
+NodoCita.obj: NodoCita.cpp.obj
+.PHONY : NodoCita.obj
+
+# target to build an object file
+NodoCita.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/NodoCita.cpp.obj
+.PHONY : NodoCita.cpp.obj
+
+NodoCita.i: NodoCita.cpp.i
+.PHONY : NodoCita.i
+
+# target to preprocess a source file
+NodoCita.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/NodoCita.cpp.i
+.PHONY : NodoCita.cpp.i
+
+NodoCita.s: NodoCita.cpp.s
+.PHONY : NodoCita.s
+
+# target to generate assembly for a file
+NodoCita.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/NodoCita.cpp.s
+.PHONY : NodoCita.cpp.s
+
+NodoMedico.obj: NodoMedico.cpp.obj
+.PHONY : NodoMedico.obj
+
+# target to build an object file
+NodoMedico.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/NodoMedico.cpp.obj
+.PHONY : NodoMedico.cpp.obj
+
+NodoMedico.i: NodoMedico.cpp.i
+.PHONY : NodoMedico.i
+
+# target to preprocess a source file
+NodoMedico.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/NodoMedico.cpp.i
+.PHONY : NodoMedico.cpp.i
+
+NodoMedico.s: NodoMedico.cpp.s
+.PHONY : NodoMedico.s
+
+# target to generate assembly for a file
+NodoMedico.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/NodoMedico.cpp.s
+.PHONY : NodoMedico.cpp.s
+
+NodoPacienteEstudiante.obj: NodoPacienteEstudiante.cpp.obj
+.PHONY : NodoPacienteEstudiante.obj
+
+# target to build an object file
+NodoPacienteEstudiante.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/NodoPacienteEstudiante.cpp.obj
+.PHONY : NodoPacienteEstudiante.cpp.obj
+
+NodoPacienteEstudiante.i: NodoPacienteEstudiante.cpp.i
+.PHONY : NodoPacienteEstudiante.i
+
+# target to preprocess a source file
+NodoPacienteEstudiante.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/NodoPacienteEstudiante.cpp.i
+.PHONY : NodoPacienteEstudiante.cpp.i
+
+NodoPacienteEstudiante.s: NodoPacienteEstudiante.cpp.s
+.PHONY : NodoPacienteEstudiante.s
+
+# target to generate assembly for a file
+NodoPacienteEstudiante.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/NodoPacienteEstudiante.cpp.s
+.PHONY : NodoPacienteEstudiante.cpp.s
+
+NodoPacienteProfesor.obj: NodoPacienteProfesor.cpp.obj
+.PHONY : NodoPacienteProfesor.obj
+
+# target to build an object file
+NodoPacienteProfesor.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/NodoPacienteProfesor.cpp.obj
+.PHONY : NodoPacienteProfesor.cpp.obj
+
+NodoPacienteProfesor.i: NodoPacienteProfesor.cpp.i
+.PHONY : NodoPacienteProfesor.i
+
+# target to preprocess a source file
+NodoPacienteProfesor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/NodoPacienteProfesor.cpp.i
+.PHONY : NodoPacienteProfesor.cpp.i
+
+NodoPacienteProfesor.s: NodoPacienteProfesor.cpp.s
+.PHONY : NodoPacienteProfesor.s
+
+# target to generate assembly for a file
+NodoPacienteProfesor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/NodoPacienteProfesor.cpp.s
+.PHONY : NodoPacienteProfesor.cpp.s
+
+NodoTransporte.obj: NodoTransporte.cpp.obj
+.PHONY : NodoTransporte.obj
+
+# target to build an object file
+NodoTransporte.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/NodoTransporte.cpp.obj
+.PHONY : NodoTransporte.cpp.obj
+
+NodoTransporte.i: NodoTransporte.cpp.i
+.PHONY : NodoTransporte.i
+
+# target to preprocess a source file
+NodoTransporte.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/NodoTransporte.cpp.i
+.PHONY : NodoTransporte.cpp.i
+
+NodoTransporte.s: NodoTransporte.cpp.s
+.PHONY : NodoTransporte.s
+
+# target to generate assembly for a file
+NodoTransporte.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/NodoTransporte.cpp.s
+.PHONY : NodoTransporte.cpp.s
 
 Paciente.obj: Paciente.cpp.obj
 .PHONY : Paciente.obj
@@ -223,6 +583,30 @@ Profesor.s: Profesor.cpp.s
 Profesor.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Profesor.cpp.s
 .PHONY : Profesor.cpp.s
+
+Saluduni.obj: Saluduni.cpp.obj
+.PHONY : Saluduni.obj
+
+# target to build an object file
+Saluduni.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Saluduni.cpp.obj
+.PHONY : Saluduni.cpp.obj
+
+Saluduni.i: Saluduni.cpp.i
+.PHONY : Saluduni.i
+
+# target to preprocess a source file
+Saluduni.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Saluduni.cpp.i
+.PHONY : Saluduni.cpp.i
+
+Saluduni.s: Saluduni.cpp.s
+.PHONY : Saluduni.s
+
+# target to generate assembly for a file
+Saluduni.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Proyecto2.dir\build.make CMakeFiles/Proyecto2.dir/Saluduni.cpp.s
+.PHONY : Saluduni.cpp.s
 
 Transporte.obj: Transporte.cpp.obj
 .PHONY : Transporte.obj
@@ -281,18 +665,66 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Proyecto2
+	@echo ... Cita.obj
+	@echo ... Cita.i
+	@echo ... Cita.s
 	@echo ... Estudiante.obj
 	@echo ... Estudiante.i
 	@echo ... Estudiante.s
+	@echo ... Facilitadores.obj
+	@echo ... Facilitadores.i
+	@echo ... Facilitadores.s
+	@echo ... Fecha.obj
+	@echo ... Fecha.i
+	@echo ... Fecha.s
+	@echo ... Hora.obj
+	@echo ... Hora.i
+	@echo ... Hora.s
+	@echo ... ListaCita.obj
+	@echo ... ListaCita.i
+	@echo ... ListaCita.s
+	@echo ... ListaMedico.obj
+	@echo ... ListaMedico.i
+	@echo ... ListaMedico.s
+	@echo ... ListaPacienteEstudiante.obj
+	@echo ... ListaPacienteEstudiante.i
+	@echo ... ListaPacienteEstudiante.s
+	@echo ... ListaPacienteProfesor.obj
+	@echo ... ListaPacienteProfesor.i
+	@echo ... ListaPacienteProfesor.s
+	@echo ... ListaTransporte.obj
+	@echo ... ListaTransporte.i
+	@echo ... ListaTransporte.s
 	@echo ... Medico.obj
 	@echo ... Medico.i
 	@echo ... Medico.s
+	@echo ... Menu.obj
+	@echo ... Menu.i
+	@echo ... Menu.s
+	@echo ... NodoCita.obj
+	@echo ... NodoCita.i
+	@echo ... NodoCita.s
+	@echo ... NodoMedico.obj
+	@echo ... NodoMedico.i
+	@echo ... NodoMedico.s
+	@echo ... NodoPacienteEstudiante.obj
+	@echo ... NodoPacienteEstudiante.i
+	@echo ... NodoPacienteEstudiante.s
+	@echo ... NodoPacienteProfesor.obj
+	@echo ... NodoPacienteProfesor.i
+	@echo ... NodoPacienteProfesor.s
+	@echo ... NodoTransporte.obj
+	@echo ... NodoTransporte.i
+	@echo ... NodoTransporte.s
 	@echo ... Paciente.obj
 	@echo ... Paciente.i
 	@echo ... Paciente.s
 	@echo ... Profesor.obj
 	@echo ... Profesor.i
 	@echo ... Profesor.s
+	@echo ... Saluduni.obj
+	@echo ... Saluduni.i
+	@echo ... Saluduni.s
 	@echo ... Transporte.obj
 	@echo ... Transporte.i
 	@echo ... Transporte.s
